@@ -1,0 +1,5 @@
+list = ["sachin", "Anand", "minal", "anushka", "abhishek"]
+
+for i in list:
+    if(i[0]== 'A' or i[0] == 'a'):
+        print(i)

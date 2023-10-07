@@ -12,7 +12,7 @@ else:
         i +=1
 
     if isPrime:
-        print ("%d is Prime" % (num))
+        print ("%d is Prime" % int(num))
     else :
         print("%d is not prime"%int(num))
 
