@@ -1,3 +1,4 @@
+# Write a program to check if a number is prime.
 num = int(input("Enter a Number : "))
 i = int(2)
 isPrime = bool(True)
@@ -5,7 +6,6 @@ isPrime = bool(True)
 if(num<2):
     print('Invalid')
 else:
-    # Write a program to check if a number is prime.
     while(i<=(num//2)):
         if num%i==0:
             isPrime = False
