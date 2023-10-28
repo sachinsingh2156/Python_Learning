@@ -1,3 +1,4 @@
+# Write a program that converts a given number of days into years, weeks, and days+
 totalDays = int(input("Enter number of days : "))
 
 years = totalDays // 365

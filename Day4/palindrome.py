@@ -1,3 +1,4 @@
+# Write a Python function to check if a given string is a palindrome"
 def palindrome(string):
     rev = string[::-1]
     if (string == rev):

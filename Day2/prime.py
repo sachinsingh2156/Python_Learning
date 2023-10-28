@@ -5,6 +5,7 @@ isPrime = bool(True)
 if(num<2):
     print('Invalid')
 else:
+    # Write a program to check if a number is prime.
     while(i<=(num//2)):
         if num%i==0:
             isPrime = False

@@ -1,3 +1,4 @@
+# Implement a function that returns the factorial of a given number using recursion"
 def factorial(num):
     if num == 0:
         return 1

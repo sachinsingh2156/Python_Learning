@@ -1,3 +1,5 @@
+
+# Create a function to count the number of vowels in a given string􏰌
 def noOfVowels(string):
     count = 0
     str = string.upper()

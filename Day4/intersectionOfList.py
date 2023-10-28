@@ -1,3 +1,4 @@
+# Write a function that takes two lists and returns their intersection (common elements)"
 def findIntersection(list1, list2):
     return list(set(list1) & set(list2))
 

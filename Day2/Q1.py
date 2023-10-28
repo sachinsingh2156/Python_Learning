@@ -1,3 +1,5 @@
+# Create variables for storing a person's name, age, and    average test score.
+
 a = input("Enter your name : ")
 b = int(input("Enter your age : "))
 c = float(input("Enter average test score : "))

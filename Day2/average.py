@@ -1,3 +1,5 @@
+# Given a list of numbers, find the sum and average􏰌
+
 list = [2, 5, 3, 5, 7, 2, 44, 6, 22, 44, 66, 22, 11, 3, 1, 0, 22]
 sum = int(0)
 print(list)

@@ -1,3 +1,6 @@
+# Given a list of words, count the number of words with more than five characters)
+
+
 list = ["Given", "a", "list", "of", "words", "count", "the", "number", "of", "words", "with", "more", "than" ,"five", "characters"]
 
 count = 0

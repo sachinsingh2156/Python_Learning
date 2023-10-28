@@ -1,3 +1,4 @@
+# Create a function to find the square of each element in a given list"
 def squareOfList(list):
     sqList = []
     for i in list:

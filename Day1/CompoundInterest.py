@@ -1,3 +1,4 @@
+# Calculate the compound interest for a given principal amount, interest rate, and time period+
 p = int(input("Enter the principle amount : "))
 t = int(input("Enter the time period in year : "))
 r = int(input("Enter the rate of interest : "))

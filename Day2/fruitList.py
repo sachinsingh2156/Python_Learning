@@ -1,3 +1,5 @@
+# Create a list of fruits and access elements using   indexing.
+
 list = ["Apple", "Banana", "Grapes", "Mango", "Orange"]
 
 print(list[0])

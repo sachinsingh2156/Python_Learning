@@ -1,3 +1,4 @@
+# Implement a function that reverses a given string.
 def reverse(str):
     rev = str[::-1]
     return rev

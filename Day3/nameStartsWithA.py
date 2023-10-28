@@ -1,3 +1,4 @@
+# Given a list of names, print all names starting with the letter 'A'
 list = ["sachin", "Anand", "minal", "anushka", "abhishek"]
 
 for i in list:

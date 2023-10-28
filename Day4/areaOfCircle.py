@@ -1,3 +1,5 @@
+# Write a function to calculate the area of a circle  given its radius.
+
 def AreaOfCircle(radius):
     area = (22/7)*radius**2
     print("Area of circle = ", round(area, 2))

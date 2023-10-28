@@ -1,3 +1,5 @@
+# Create a function to check if a number is prime.
+
 def isPrime(num):
     prime = bool(True)
     for i in range(2, num//2):

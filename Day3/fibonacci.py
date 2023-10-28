@@ -1,3 +1,5 @@
+# Create a program that generates the Fibonacci sequence up to a given number of terms)
+
 n = int(input("Enter the number of terms : "))
 a = 0
 b = 1
