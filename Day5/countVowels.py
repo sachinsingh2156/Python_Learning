@@ -7,6 +7,6 @@ def countVowels(string):
             count += 1
     return count
 
+
 string = "Hello, My name is sachin singh"
-print("Number of Vowels : ",countVowels(string))
-    
+print("Number of Vowels : ", countVowels(string))
